@@ -1,4 +1,4 @@
-package com.example.pratical_2a;
+package com.example.pratical_1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
